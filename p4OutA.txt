@@ -1,0 +1,5 @@
+
+Average Queue Time for Server X = 276.9 
+Average Queue Time for Server W = 22.5 
+Average Time in System = 342.0 
+Successfully terminated the simulation 
