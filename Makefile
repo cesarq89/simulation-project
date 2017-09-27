@@ -1,5 +1,5 @@
 # Define the machine object files for your program
-OBJECTS = p4skk956.o
+OBJECTS = cs2123p4.o
 # Define your include file
 INCLUDES = cs2123p4.h
 
